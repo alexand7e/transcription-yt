@@ -1,0 +1,5 @@
+streamlit
+yt-dlp
+pydub
+SpeechRecognition
+ffmpeg-python # Para garantir que as dependências do ffmpeg sejam consideradas (opcional, mas bom para clareza)
